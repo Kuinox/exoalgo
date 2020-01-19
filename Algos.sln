@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice1", "Exercice1\Exer
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{4714EBBB-E6E7-4036-A7C6-6607B73E5EF9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice1.Tests", "Tests\Exercice1.Tests\Exercice1.Tests.csproj", "{90EF457E-153B-49A9-85A4-9585BBDEF764}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice.Tests", "Tests\Exercice1.Tests\Exercice.Tests.csproj", "{90EF457E-153B-49A9-85A4-9585BBDEF764}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F041B781-6225-4EC6-855A-B5F99BF1F7F7}"
 	ProjectSection(SolutionItems) = preProject
